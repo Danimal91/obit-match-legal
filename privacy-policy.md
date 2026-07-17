@@ -105,7 +105,3 @@ If we make material changes to this policy, we will notify you in the app before
 ## Contact
 
 Obit Match — privacy@obitmatch.app *(placeholder — replace with a monitored address before publication)*
-
----
-
-*This policy was drafted with reference to Apple's App Store privacy policy requirements and the California Consumer Privacy Act (CCPA) as amended by the California Privacy Rights Act (CPRA), including regulations effective January 1, 2026. It is a draft prepared with AI assistance and has not been reviewed by an attorney. Obit Match should have this policy reviewed by a licensed attorney before publishing it as final, especially if it plans to operate in states beyond the ones explicitly addressed here, collect additional categories of data, or begin selling/sharing personal information or serving users outside the United States.*
