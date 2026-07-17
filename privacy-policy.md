@@ -104,4 +104,4 @@ If we make material changes to this policy, we will notify you in the app before
 
 ## Contact
 
-Obit Match — privacy@obitmatch.app *(placeholder — replace with a monitored address before publication)*
+Obit Match — obitmatchcontact@gmail.com

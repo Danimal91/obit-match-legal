@@ -45,7 +45,7 @@ Subject to your compliance with these terms, we grant you a limited, non-exclusi
 
 ## Privacy
 
-Our [Privacy Policy](privacy-policy.html) describes what we collect and how we use it. It is part of these terms.
+Our [Privacy Policy](privacy-policy.md) describes what we collect and how we use it. It is part of these terms.
 
 ## Maintenance and support
 
@@ -95,7 +95,7 @@ These terms are governed by the laws of the State of Georgia, USA, without regar
 
 ## Contact
 
-Obit Match — legal@obitmatch.app *(placeholder — replace with a monitored address before publication)*
+Obit Match — obitmatchcontact@gmail.com
 
 ---
 
