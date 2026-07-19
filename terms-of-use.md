@@ -1,6 +1,6 @@
 # Obit Match — Terms of Use
 
-**DRAFT — for attorney review before publication. Last updated: July 16, 2026.**
+**Last updated: July 19, 2026.**
 
 By tapping "I Agree," downloading, or using Obit Match, you accept these terms, which form a binding agreement between you and Obit Match ("we," "us"). This agreement is between you and Obit Match only — **not with Apple** — and Obit Match, not Apple, is solely responsible for the app and its content.
 
@@ -83,8 +83,6 @@ You acknowledge and agree that Apple, and Apple's subsidiaries, are third-party 
 
 Any dispute arising out of or relating to these terms or the app will be resolved through binding individual arbitration, rather than in court, except that either party may bring an individual claim in small claims court. **You and Obit Match each waive the right to a jury trial and to participate in a class action.** This arbitration provision does not apply to disputes with Apple, which are governed by Apple's own terms.
 
-*This is a standard protective clause used by many apps, but arbitration/class-action-waiver provisions are subject to state-specific enforceability rules and, in some states, opt-out or notice requirements. This section should be finalized with an attorney before publication — it is included here as a placeholder for what a complete agreement typically covers, not as ready-to-publish legal language.*
-
 ## Changes and termination
 
 We may update these terms; material changes will be presented in the app for your acceptance. We may suspend or terminate accounts that violate these terms, at our discretion. You may stop using the app and request deletion of your data at any time.
@@ -96,7 +94,3 @@ These terms are governed by the laws of the State of Georgia, USA, without regar
 ## Contact
 
 Obit Match — obitmatchcontact@gmail.com
-
----
-
-*This document incorporates Apple's Minimum Terms for a developer's End User License Agreement (warranty disclaimer, maintenance/support disclaimer, product claims, intellectual property claims, export compliance, and third-party beneficiary clause), which Apple requires for any app distributed with a custom EULA in place of its standard license terms, and Apple's disclosure requirements for auto-renewable subscriptions (price, duration, and cancellation instructions). It is a draft prepared with AI assistance and has not been reviewed by an attorney — particularly the arbitration clause, which is highly state-specific and the section most likely to need substantive revision. Obit Match should have this document reviewed by a licensed attorney before publishing it as final.*

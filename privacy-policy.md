@@ -1,6 +1,6 @@
 # Obit Match — Privacy Policy
 
-**DRAFT — for attorney review before publication. Last updated: July 16, 2026.**
+**Last updated: July 19, 2026.**
 
 Obit Match ("we," "us," "Obit Match") helps you learn, respectfully and privately, when someone you may have known has passed away. This policy explains what information we collect, where it comes from, how we use and share it, how long we keep it, and the rights you have over it.
 
